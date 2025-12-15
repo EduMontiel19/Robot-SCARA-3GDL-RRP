@@ -30,9 +30,10 @@ Este repositorio contiene:
 ---
 
 ## 3) Archivos principales
-├─ arduino_scara.ino # Arduino: receptor serial + control servos
-├─ gui_scara.py # Python GUI (tu archivo "gui_scara (1).py" renombrado)
+-arduino_scara.ino # Arduino: receptor serial + control servos
+-gui_scara.py # Python GUI 
 
+---
 
 ## 4) Requisitos
 
