@@ -53,5 +53,8 @@ Este repositorio contiene:
   - `matplotlib`
   - `pyserial`
 
-> Puedes renombrar, pero se recomienda mantener la estructura para evitar errores de importación.
+---
+## 4) Autores 
+- Kevyn David Delgado Gómez
+- Eduardo Montiel Salazar
 
