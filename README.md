@@ -25,7 +25,7 @@ El robot implementado es un **SCARA RRP (3 GDL)**:
 Este repositorio contiene:
 - **Código Arduino**: recepción por serial y control de servos
 - **Código Python (GUI)**: control manual, cálculo cinemático, visualización y envío serial
-- **Evidencia**: GIF/Video y fotos del prototipo (opcional pero recomendado)
+- **Evidencia**: GIF/Video y fotos del prototipo 
   
 ---
 
